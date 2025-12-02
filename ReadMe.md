@@ -5,7 +5,7 @@ Welcome to my Markdown Introduction Assignment!
 
 #### - [Developer Bio](https://github.com/rai8d4/IT1600-HW4/blob/main/devbio.md)
 
-Click above for a quick introduction about the developer of this personal resource, me! The amazing, wonderful, and extremely talented Rayyan Iqbal! 
+Click above for a quick introduction about the developer of this personal resource, me! The amazing Rayyan Iqbal! 
 
 #### - [Coffee Chatter](https://github.com/rai8d4/IT1600-HW4/blob/main/coffeechatter.md)
 
